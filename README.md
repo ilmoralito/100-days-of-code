@@ -16,3 +16,7 @@ Today my son is 1.6 months old
 #day 2 28-04-2020
 
 Today I managed to understand how the dynamic routes workflow works in nextjs, I also think I improve the name of the commits so that when I read them I know what the issue was that day
+
+#day 3 29-04-2020
+
+Today I managed to understand the basic of Api Routes. Next day I am planing to implementa more real world example using Api Routes
