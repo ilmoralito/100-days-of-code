@@ -20,3 +20,7 @@ Today I managed to understand how the dynamic routes workflow works in nextjs, I
 #day 3 29-04-2020
 
 Today I managed to understand the basic of Api Routes. Next day I am planing to implementa more real world example using Api Routes
+
+#day4 30-04-2020
+
+Today i have been getting acquainted with next js dynamic api routes
