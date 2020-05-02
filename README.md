@@ -24,3 +24,7 @@ Today I managed to understand the basic of Api Routes. Next day I am planing to 
 #day 4 30-04-2020
 
 Today i have been getting acquainted with next js dynamic api routes. What was planned on day 3 is pending
+
+#day 5 01-05-2020
+
+Today I recap about dynamic api routes using REST api. Tomorrow I plan to understand how to keep a state between pages
