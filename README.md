@@ -28,3 +28,7 @@ Today i have been getting acquainted with next js dynamic api routes. What was p
 #day 5 01-05-2020
 
 Today I recap about dynamic api routes using REST api. Tomorrow I plan to understand how to keep a state between pages
+
+#day 6 02-05-2020 
+
+Now I have taken my first steps in understanding how to handle common states between pages. Thanks to the excellent article https://reacttricks.com/sharing-global-data-in-next-with-custom-app-and-usecontext-hook/
