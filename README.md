@@ -40,7 +40,7 @@ Now I have taken my first steps in understanding how to handle common states bet
 I lost a bit of the north now, I try to understand the logic of the code of obtaining static data explained in the publication https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next -9.3-and-netlify /? Utm_source = github & utm_medium = blog-cs & utm_campaign = devex
 
 Specifically this code
-
+```
 const posts = ((context) => {
   const keys = context.keys()
   const values = keys.map(context)
@@ -57,4 +57,4 @@ const posts = ((context) => {
   })
   return data
 })(require.context('../posts', true, /\.md$/))
-
+```
