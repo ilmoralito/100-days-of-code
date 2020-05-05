@@ -32,3 +32,29 @@ Today I recap about dynamic api routes using REST api. Tomorrow I plan to unders
 #day 6 02-05-2020 
 
 Now I have taken my first steps in understanding how to handle common states between pages. Thanks to the excellent article https://reacttricks.com/sharing-global-data-in-next-with-custom-app-and-usecontext-hook/
+
+#day 7 03-05-2020
+
+#day 8 04-05-2020
+
+I lost a bit of the north now, I try to understand the logic of the code of obtaining static data explained in the publication https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next -9.3-and-netlify /? Utm_source = github & utm_medium = blog-cs & utm_campaign = devex
+
+Specifically this code
+
+const posts = ((context) => {
+  const keys = context.keys()
+  const values = keys.map(context)
+
+  const data = keys.map((key, index) => {
+    let slug = key.replace(/^.*[\\\/]/, '').slice(0, -3)
+    const value = values[index]
+    const document = matter(value.default)
+    return {
+      frontmatter: document.data,
+      markdownBody: document.content,
+      slug,
+    }
+  })
+  return data
+})(require.context('../posts', true, /\.md$/))
+
