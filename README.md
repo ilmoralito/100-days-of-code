@@ -58,3 +58,6 @@ const posts = ((context) => {
   return data
 })(require.context('../posts', true, /\.md$/))
 ```
+#day 9 05-05-2020
+
+Today I have only managed to review some concepts, which include pages, link and data fetching. I need to organize in order to understand what comes next
