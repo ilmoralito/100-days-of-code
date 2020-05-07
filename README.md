@@ -61,3 +61,7 @@ const posts = ((context) => {
 #day 9 05-05-2020
 
 Today I have only managed to review some concepts, which include pages, link and data fetching. I need to organize in order to understand what comes next
+
+#day10 06-05-2020
+
+It is time to put into practice what I have learned. So I am creating my own site
