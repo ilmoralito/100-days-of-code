@@ -65,3 +65,7 @@ Today I have only managed to review some concepts, which include pages, link and
 #day10 06-05-2020
 
 It is time to put into practice what I have learned. So I am creating my own site
+
+#day11 07-05-2020
+
+Today, building my personal site I have continued putting into practice what I have studied in nextjs. Now create a switch that changes from light to dark mode along with other minor style changes
