@@ -73,3 +73,7 @@ Today, building my personal site I have continued putting into practice what I h
 #day12 08-05-2020
 
 Today I am working on implementing the main blog site
+
+#day13 09-05-2020
+
+Now and tried to integrate open graph meta tags and twitter cards to the post detail view. It works, but I have not been able to resolve to get the base url of the site to attach it to the image path I have defined. This in order to properly display the image on twitter
