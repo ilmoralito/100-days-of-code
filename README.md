@@ -77,3 +77,7 @@ Today I am working on implementing the main blog site
 #day13 09-05-2020
 
 Now and tried to integrate open graph meta tags and twitter cards to the post detail view. It works, but I have not been able to resolve to get the base url of the site to attach it to the image path I have defined. This in order to properly display the image on twitter
+
+#day14 10-05-2020
+
+Solved the pending of the previous day, but when trying to show an image in the twitter card I have not been successful. I hope to solve tomorrow
