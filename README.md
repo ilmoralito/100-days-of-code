@@ -87,3 +87,7 @@ Solved the pending of the previous day, but when trying to show an image in the 
 Now as recent days it has not been easy to continue with the challenge. My twitter is blocked and I will not be able to report on that channel. But here I am still continuous. Here is my progress, this is the most recent commit of the day https://github.com/ilmoralito/my-site/commit/dece138e2b69b8362aa19d532074696932b20cb0
 
 By the way my twitter account is blocked because I logged out and I don't remember my password. I tried to access n times and consequently they blocked me for identifying suspicious behavior
+
+#day16 12-05-2020
+
+Implementing contact form, practicing using formik and next/router
